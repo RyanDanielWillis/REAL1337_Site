@@ -20,7 +20,7 @@ Requirements:
 - Testing Utilities, Dev Environment and QA Checklist
 - Team Schedule/Project Role Assignments, Priorities, Goals, and Ideas lists
 - Research Platform
-  - User db with access controls admin dashboard
+  - User db with access controls from admin dashboard
   - User and content settings interface
   - analytics dashboards linked to research notes db
   - Chat bot tide to notes db
