@@ -1,4 +1,4 @@
-# REAL1337.Com 
+# REAL1337.com 
 
 To-do: 
 - Diagrams of Concepts and Logic
