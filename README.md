@@ -1,5 +1,19 @@
 # REAL1337.Com 
 
+To-do:
+------
+- Break down requirements into 4-8 hour blocks.
+    - Prioritize based on goals and this will be the Project Schedule
+- Resource Plan
+- Cost Plan
+- Design Plan: Concept, Logic, Physical, Operational
+
+- When above done,
+- Hold weekly status meetings to decide:
+  - What was done? and
+  - What will be done next week?
+- Issues should be delt with swiftly and should not repeat after one week.
+
 Requirements:
 =============
 - Node.js Site
@@ -10,6 +24,7 @@ Requirements:
   - User db with access controls admin dashboard
   - User and content settings interface
   - analytics dashboards linked to research notes db
+  - include lessons learned section
   - code and notes editing web interface
   - logging system
   - RSS/Webscraping Tech/Security feed
@@ -27,6 +42,7 @@ Tech/Security Release feed, Research Papers, consulting/contracting, team learni
 
 Test Plan:
 ----------
+- Get potential customer feedback
 - Pentest regularly including fuzzing, network, web app vuln, etc.
 - One week of testing before feature launch, one month minimum for product launch.
 - Testing done in dev and live environment.
