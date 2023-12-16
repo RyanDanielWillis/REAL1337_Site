@@ -1,5 +1,11 @@
 # REAL1337.Com 
 
+To-do: 
+- Diagrams of Concepts and Logic
+- research to validate logic and security
+- build basic working system
+- improve on features, design, seo, and sec
+
 Requirements:
 =============
 - Secure Coding Policies & Procedures
@@ -21,6 +27,7 @@ Requirements:
   - Link to Research, Products & Services
   - Eventually parts of research platform will be public for open source collab
 - Private interface for expirmental team projects
+- Git/backup utility
 
 Use Cases:
 ----------
