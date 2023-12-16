@@ -24,7 +24,8 @@ Requirements:
   - User db with access controls admin dashboard
   - User and content settings interface
   - analytics dashboards linked to research notes db
-  - include lessons learned section
+  - Chat bot tide to notes db
+  - include lessons learned section in notes
   - code and notes editing web interface
   - logging system
   - RSS/Webscraping Tech/Security feed
@@ -34,6 +35,7 @@ Requirements:
   - Paid ads?
   - Link to Research, Products & Services
   - Eventually parts of research platform will be public for open source collab
+- Private interface for expirmental team projects
 
 Use Cases:
 ----------
