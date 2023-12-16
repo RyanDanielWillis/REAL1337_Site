@@ -8,7 +8,7 @@ To-do:
 - Cost Plan
 - Design Plan: Concept, Logic, Physical, Operational
 
-- When above done,
+When above done,
 - Hold weekly status meetings to decide:
   - What was done? and
   - What will be done next week?
