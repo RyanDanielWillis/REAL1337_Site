@@ -16,8 +16,7 @@ To-do:
 
 Requirements:
 =============
-- Node.js Site
-  - Secure Node.js Coding Policies & Procedures
+- Secure Coding Policies & Procedures
 - Testing Utilities, Dev Environment and QA Checklist
 - Team Schedule/Project Role Assignments, Priorities, Goals, and Ideas lists
 - Research Platform
