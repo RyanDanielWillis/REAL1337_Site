@@ -32,7 +32,7 @@ Create and follow secure coding policies and procedures
 Training Plan:
 --------------
 Collaborative notes platform :
- - supportive various file formats including: Concepts mind maps, Obsidian, TXT, PDF, Excel and more
+ - supports various file formats including: Concepts mind maps, Obsidian, TXT, PDF, Excel and more
  - Able to open and edit files in browser
  - Collabortive editing with user access controls
  - and logging
