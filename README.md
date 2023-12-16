@@ -1,19 +1,5 @@
 # REAL1337.Com 
 
-To-do:
-------
-- Break down requirements into 4-8 hour blocks.
-    - Prioritize based on goals and this will be the Project Schedule
-- Resource Plan
-- Cost Plan
-- Design Plan: Concept, Logic, Physical, Operational
-
-When above done,
-- Hold weekly status meetings to decide:
-  - What was done? and
-  - What will be done next week?
-- Issues should be delt with swiftly and should not repeat after one week.
-
 Requirements:
 =============
 - Secure Coding Policies & Procedures
