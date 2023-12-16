@@ -8,11 +8,17 @@ Requirements:
 - Team Schedule, Priorities, Goals, and Ideas lists
 - Research Platform
   - User db with access controls admin dashboard
-  - User settings interface
+  - User and content settings interface
   - analytics dashboards linked to research notes db
   - code and notes editing web interface
   - logging system
   - RSS/Webscraping Tech/Security feed
+- Homepage including:
+  - Member login
+  - Tech/Security/Scraping Feed
+  - Paid ads?
+  - Link to Research, Products & Services
+  - Eventually parts of research platform will be public for open source collab
 
 Use Cases:
 ----------
