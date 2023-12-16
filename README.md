@@ -20,6 +20,7 @@ Requirements:
   - code and notes editing web interface
   - logging system
   - RSS/Webscraping Tech/Security feed
+  - chatroom / voice / screenshare server (discord?)
 - Homepage including:
   - Member login
   - Tech/Security/Scraping Feed
