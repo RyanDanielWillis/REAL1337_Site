@@ -4,12 +4,13 @@ Requirements:
 =============
 - Node.js Site
   - Secure Node.js Coding Policies & Procedures
-- Testing Utilities and QA Checklist
-- Priorities, Goals, and Ideas lists
+- Testing Utilities, Dev Environment and QA Checklist
+- Team Schedule, Priorities, Goals, and Ideas lists
 - Research Platform
-  - User db with admin access controls controls dashboard
+  - User db with access controls admin dashboard
   - User settings interface
-  - dashboard collection linked to content db
+  - analytics dashboards linked to research notes db
+  - code and notes editing web interface
   - logging system
   - RSS/Webscraping Tech/Security feed
 
@@ -17,11 +18,13 @@ Use Cases:
 ----------
 Tech/Security Release feed, Research Papers, consulting/contracting, team learning, dev collaboration>product launches
 
+
 Test Plan:
 ----------
 Pentest regularly including fuzzing, network, web app vuln, etc.
 One week of testing before feature launch, one month minimum for product launch.
 Testing done in dev and live environment.
+
 
 Quality Plan:
 -------------
