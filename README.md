@@ -66,4 +66,5 @@ Deploy Plan:
 - Regularly check for Node.JS changes and perform patches and updates as needed.
 - Backup (offline and online) before releases and updates.
 - Test for QA and then release.
+
 Note: This plan applies to the website CMS deploy plan and not internal collabortive notes, which may be released in real time.
