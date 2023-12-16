@@ -19,7 +19,7 @@ Requirements:
 - Node.js Site
   - Secure Node.js Coding Policies & Procedures
 - Testing Utilities, Dev Environment and QA Checklist
-- Team Schedule, Priorities, Goals, and Ideas lists
+- Team Schedule/Project Role Assignments, Priorities, Goals, and Ideas lists
 - Research Platform
   - User db with access controls admin dashboard
   - User and content settings interface
