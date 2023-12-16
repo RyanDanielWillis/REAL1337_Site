@@ -18,7 +18,7 @@ Requirements:
 =============
 - Secure Coding Policies & Procedures
 - Testing Utilities, Dev Environment and QA Checklist
-- Team Schedule/Project Role Assignments, Priorities, Goals, and Ideas lists
+- Team Schedule/Project Role Assignments, Priorities, Goals, SEO/Marketing Plan and Ideas lists
 - Research Platform
   - User db with access controls from admin dashboard
   - User and content settings interface
@@ -53,6 +53,7 @@ Quality Plan:
 -------------
 - Appoint member responsible for regular quality tests.
 - Create and follow secure coding policies and procedures
+- SEO & Marketing plan
 
 
 Training Plan:
