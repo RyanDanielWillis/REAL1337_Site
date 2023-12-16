@@ -63,6 +63,7 @@ Collaborative notes platform :
  - Able to open and edit files in browser
  - Collabortive editing with user access controls
  - and logging
+
 Other training include:
  - Team tech challenges
  - Certifications
