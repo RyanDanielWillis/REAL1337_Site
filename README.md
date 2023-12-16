@@ -29,6 +29,7 @@ Requirements:
   - Eventually parts of research platform will be public for open source collab
 - Private interface for expirmental team projects
 - Git/backup utility
+- Member recruitment strategy
 
 Use Cases:
 ----------
