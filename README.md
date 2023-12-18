@@ -1,5 +1,12 @@
 # REAL1337.com 
 
+Ideas:
+Run Proxmox on dedicated server
+Setup secure debian vps's
+setup CI/CD process
+make bot - integrate with data management and chat/forum
+
+
 To-do: 
 - Diagrams of Concepts and Logic
 - research to validate logic and security
